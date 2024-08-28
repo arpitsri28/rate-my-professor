@@ -1,11 +1,11 @@
+'use client';
 import Image from "next/image";
-import styles from "./page.module.css";
-import React, { useState } from 'react'; 
-import Image from 'next/image'; 
+import React from 'react'; 
 import Box from '@mui/material/Box';
 import Stack from '@mui/material/Stack';
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
+import { useState } from 'react';
 
 export default function Home() {
     const [messages, setMessages] = useState([

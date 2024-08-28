@@ -44,7 +44,7 @@ export async function POST(req) {
   const text = data[data.length -1].content;
 
   // Fetch the embedding from your FastAPI service
-  const response = await fetch('http://localhost:8000/embeddings/', { // Adjust URL if hosted
+  const response = await fetch('http://localhost:8000/embeddings/', { 
     method: 'POST',
     headers: {'Content-Type': 'application/json'},
     body: JSON.stringify({text: text})

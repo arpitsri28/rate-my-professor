@@ -20,9 +20,8 @@ async def create_embeddings(data: TextData):
         # Generate model output
         with torch.no_grad():
             outputs = model(**inputs)
-            logits = outputs.logits
-            probabilities = torch.nn.functional.softmax(logits, dim=-1).tolist()
-        return {"probabilities": probabilities}
+            embeddings = outputs.last_hidden_state.mean(dim=1).squeeze().tolist()
+        return {"embeddings": embeddings}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 

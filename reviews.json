@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. John Smith",
+      "subject": "Mathematics",
+      "stars": 4,
+      "review": "Dr. Smith explains concepts clearly, but his exams are challenging."
+    },
+    {
+      "professor": "Dr. Sarah Johnson",
+      "subject": "Physics",
+      "stars": 5,
+      "review": "One of the best professors I've ever had. Makes physics fun and engaging."
+    },
+    {
+      "professor": "Dr. Emily Brown",
+      "subject": "Computer Science",
+      "stars": 3,
+      "review": "The lectures are informative, but the homework assignments are overwhelming."
+    },
+    {
+      "professor": "Dr. Michael Davis",
+      "subject": "Chemistry",
+      "stars": 2,
+      "review": "Not the most engaging lecturer, and the labs are poorly organized."
+    },
+    {
+      "professor": "Dr. Linda Wilson",
+      "subject": "Biology",
+      "stars": 5,
+      "review": "Dr. Wilson is incredibly knowledgeable and always willing to help."
+    },
+    {
+      "professor": "Dr. James Martinez",
+      "subject": "History",
+      "stars": 4,
+      "review": "Great storytelling in lectures, but the exams require a lot of memorization."
+    },
+    {
+      "professor": "Dr. Patricia Clark",
+      "subject": "English Literature",
+      "stars": 5,
+      "review": "Dr. Clark is passionate about literature and brings the texts to life."
+    },
+    {
+      "professor": "Dr. Robert Lewis",
+      "subject": "Philosophy",
+      "stars": 3,
+      "review": "Thought-provoking discussions, but his grading can be inconsistent."
+    },
+    {
+      "professor": "Dr. Karen Walker",
+      "subject": "Psychology",
+      "stars": 4,
+      "review": "Interesting lectures, but the workload can be heavy at times."
+    },
+    {
+      "professor": "Dr. Daniel Hall",
+      "subject": "Economics",
+      "stars": 2,
+      "review": "The lectures are dry and hard to follow, but the textbook is helpful."
+    },
+    {
+      "professor": "Dr. Susan Young",
+      "subject": "Sociology",
+      "stars": 5,
+      "review": "Dr. Young is a fantastic professor who cares deeply about her students."
+    },
+    {
+      "professor": "Dr. Thomas King",
+      "subject": "Political Science",
+      "stars": 4,
+      "review": "Engaging lectures and fair grading. Dr. King encourages critical thinking."
+    },
+    {
+      "professor": "Dr. Jessica Wright",
+      "subject": "Art History",
+      "stars": 3,
+      "review": "She knows her subject well, but her lectures can be a bit monotonous."
+    },
+    {
+      "professor": "Dr. Steven Harris",
+      "subject": "Engineering",
+      "stars": 5,
+      "review": "Dr. Harris is very supportive and explains complex topics in an understandable way."
+    },
+    {
+      "professor": "Dr. Elizabeth Scott",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Great professor with a passion for the environment. Her exams are fair."
+    },
+    {
+      "professor": "Dr. Brian Roberts",
+      "subject": "Anthropology",
+      "stars": 3,
+      "review": "Interesting material, but his lectures can be difficult to follow."
+    },
+    {
+      "professor": "Dr. Melissa Turner",
+      "subject": "Statistics",
+      "stars": 5,
+      "review": "Dr. Turner is an excellent professor who makes statistics easy to understand."
+    },
+    {
+      "professor": "Dr. Charles Green",
+      "subject": "Business Administration",
+      "stars": 4,
+      "review": "Good professor with practical business insights, but sometimes the lectures feel rushed."
+    },
+    {
+      "professor": "Dr. Rebecca Baker",
+      "subject": "Nursing",
+      "stars": 5,
+      "review": "Dr. Baker is highly knowledgeable and provides excellent hands-on training."
+    },
+    {
+      "professor": "Dr. Matthew Adams",
+      "subject": "Law",
+      "stars": 4,
+      "review": "Dr. Adams is a great lecturer and brings real-world experience into the classroom."
+    }
+  ]
+}
